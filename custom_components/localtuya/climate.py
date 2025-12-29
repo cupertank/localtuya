@@ -105,7 +105,7 @@ HVAC_MODE_SETS = {
     },
     "home/auto": {
         HVACMode.HEAT: "home",
-        HVACMode.AUTO: "auto",
+        # HVACMode.AUTO: "auto",
     }
 }
 HVAC_ACTION_SETS = {
